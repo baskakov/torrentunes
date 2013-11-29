@@ -9,6 +9,13 @@ src_managed/
 project/boot/
 project/plugins/project/
 
+.*
+log
+project/project
+project/target
+routes.cache
+target
+
 # Scala-IDE specific
 .scala_dependencies
 .cache

@@ -1,5 +1,8 @@
 package ws.bask.torrentunes
 
+import scalaj.http.Http
+
 object Main extends App {
-	println("Hi there")
+	val req = Http("https://itunes.apple.com/search").param("term","nastya").asString
+	println(req)
 }
