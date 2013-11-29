@@ -1,4 +1,5 @@
 torrentunes
 ===========
 
-itunes to torrent downloader
+iTunes to torrent downloader
+Freshest music every day!
